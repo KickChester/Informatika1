@@ -1,0 +1,65 @@
+
+
+
+body{
+
+
+margin:0%;
+
+}
+
+
+
+.div1{
+
+    height: 100px;
+    width: 100%;
+    background-color: rgb(192, 192, 192);
+    margin: 0%;
+    
+    
+    }
+
+    .div2{
+        height: 500px;
+        margin: 0%;
+        width: 100%;
+        background-color: aliceblue;
+        
+
+
+
+
+
+    }
+
+    .div2 h1{
+
+ position: absolute;
+ left: 60px;
+ z-index: 1;
+ font-size: 50px;
+ background-color: rgba(0, 0, 0, 0.705);
+color: white;
+
+
+    }
+    .div2 img {
+        
+        height: 100%;
+        width: 100%;
+        
+    }
+
+    .div2 ul{
+        position: absolute;
+         top: 200px;   
+         
+
+    }
+
+    a{
+        color: white;
+        font-size: 20px;
+    }
+    
